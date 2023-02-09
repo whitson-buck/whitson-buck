@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whitson-buck
-- 👀 I’m interested in learning continuously
+- 👀 I’m always learning
 - 🌱 I’m a senior Analytics student at the University of Tennessee (go vols)
 - 💞️ Currently finishing thesis project on identifying sinkholes through LIDAR
 - 📫 How to reach me: whitsonbuck@gmail.com
