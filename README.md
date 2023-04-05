@@ -1,6 +1,6 @@
-about me
+### about me
 
-**education**
+## education
 
 the university of tennessee, knoxville, haslam college of business: expected graduation may 2023
 bachelor of science in business administration, major in business analytics
