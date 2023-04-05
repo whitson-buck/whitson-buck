@@ -2,9 +2,10 @@
 
 ## education
 
-the university of tennessee, knoxville, haslam college of business: expected graduation may 2023
-bachelor of science in business administration, major in business analytics
-minor and collateral in geographic information systems and information management
+the university of tennessee, knoxville, haslam college of business, may 2023
+
+bachelor of science in business administration, major in business analytics & minor and collateral in geographic information systems and information management
+
 gpa: 3.87/4.0
 
 ## projects
