@@ -1,12 +1,14 @@
 about me
 
 **education**
+
 the university of tennessee, knoxville, haslam college of business: expected graduation may 2023
 bachelor of science in business administration, major in business analytics
 minor and collateral in geographic information systems and information management
 gpa: 3.89/4.0
 
 **work experience**
+
 *haslam sports group, intern*: berea, oh: may 2021 - july 2021
 
   - delivered insights about corporate retention for partners of the cleveland browns as part of a cross-functional analytics team
@@ -23,6 +25,7 @@ gpa: 3.89/4.0
   - installed ups systems on proprietary life-science automation devices and created a user manual for clients to install software
   
 **honors and awards**
+
 *haslam scholars program*: august 2019 - present
 
   - selected as one of fifteen from the ut class of 2023 to participate in an enriching curriculum, complete community service, and study abroad
@@ -30,6 +33,7 @@ gpa: 3.89/4.0
   - engage in cohort model with 14 peers, complete a challenging curriculum together, and promote community learning
   
 **projects**
+
 *tdec abandoned mine reclamation*: january 2022 - may 2022
 
   - collaborated with the tennessee department of environment and conservation to deliver a map, using arcgis pro, of potentially hazardous highwalls left from abandoned mines that were built before surface mining laws
