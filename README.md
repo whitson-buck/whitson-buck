@@ -7,7 +7,7 @@ bachelor of science in business administration, major in business analytics
 minor and collateral in geographic information systems and information management
 gpa: 3.89/4.0
 
-**work experience**
+## work experience
 
 *haslam sports group, intern*: berea, oh: may 2021 - july 2021
 
@@ -24,7 +24,7 @@ gpa: 3.89/4.0
   - analyzed organizational practices and redesigned the part storage system which reduced the time required to find parts
   - installed ups systems on proprietary life-science automation devices and created a user manual for clients to install software
   
-**honors and awards**
+## honors and awards
 
 *haslam scholars program*: august 2019 - present
 
@@ -32,7 +32,7 @@ gpa: 3.89/4.0
   - complete an intensive thesis project (see below), receive a stipend for research, and receive a full scholarship
   - engage in cohort model with 14 peers, complete a challenging curriculum together, and promote community learning
   
-**projects**
+## projects
 
 *tdec abandoned mine reclamation*: january 2022 - may 2022
 
