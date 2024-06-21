@@ -1,3 +1,5 @@
+# [check out my page](https://whitson-buck.github.io/)
+
 # about me
 
 ## education
