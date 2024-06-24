@@ -1,26 +1,33 @@
-# [check out my page](https://whitson-buck.github.io/)
+[check out my page](https://whitson-buck.github.io/)
 
 # about me
 
 ## education
 
-the university of tennessee, knoxville, haslam college of business, may 2023
+**the university of tennessee, knoxville, haslam college of business, may 2023**
 
-bachelor of science in business administration, major in business analytics & minor and collateral in geographic information systems and information management
+masters of science in business analytics
+
+gpa: 3.79/4.0
+
+bachelor of science in business analytics, major in business analytics & minor and collateral in geographic information systems and information management
 
 gpa: 3.87/4.0
 
 ## projects
 
+*senior thesis capstone project*: january 2023 - may 2023
+
+  - developed python package [geolog](https://github.com/whitson-buck/geolog) to analyze qualities of shapefiles such as circularity index and elongation ratio. Available on PyPi and Conda.
+
 *tdec abandoned mine reclamation*: january 2022 - may 2022
 
   - collaborated with the tennessee department of environment and conservation to deliver a map, using arcgis pro, of potentially hazardous highwalls left from abandoned mines that were built before surface mining laws
-  - analyzed lidar data with geoprocessing tools in arcgis to identify abandoned mines in every county in east tennessee that has higher densities of precious metals
+  - analyzed LiDAR data with geoprocessing tools in arcgis to identify abandoned mines in every county in east tennessee that has higher densities of precious metals
 
 *senior thesis capstone project*: august 2021 - may 2023
 
-  - currently researching a methodology for identifying sinkholes from lidar data, specifically in knox county, tennessee
-  - developing a machine-learning algorithm which can more accurately and quickly identify sinkholes than humans
+  - capstone project using LiDAR data to remotely identify locations of 5,378 sinkholes in [White County, TN](https://docs.google.com/document/d/1CQpwE-7AvARAzqZOHcN_e_sCDCENGLarEdjYUmu_t14/edit?usp=sharing). 
 
 ## work experience
 
@@ -36,8 +43,7 @@ gpa: 3.87/4.0
   
 ## honors and awards
 
-*haslam scholars program*: august 2019 - present
+*haslam scholars program*: august 2019 - may 2023
 
   - selected as one of fifteen from the ut class of 2023 to participate in an enriching curriculum, complete community service, and study abroad
-  - complete an intensive thesis project (see below), receive a stipend for research, and receive a full scholarship
-  - engage in cohort model with 14 peers, complete a challenging curriculum together, and promote community learning
+  - complete an intensive thesis project (see above), receive a stipend for research, and receive a full scholarship
